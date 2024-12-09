@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a simple currency converter built using React and Vite. It allows users to convert amounts between different currencies.
+A simple currency converter built using React, Vite and Tailwind CSS. It allows users to convert amounts between different currencies.
 
 ## Features
 
