@@ -4,8 +4,8 @@ import { InputBox } from "./components/index.js";
 
 function App() {
   const [amount, setAmount] = useState();
-  const [from, setFrom] = useState("usd");
-  const [to, setTo] = useState("inr");
+  const [from, setFrom] = useState("inr");
+  const [to, setTo] = useState("usd");
   const [covertedAmount, setConvertedAmount] = useState();
 
   const swap = () => {
